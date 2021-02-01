@@ -1,0 +1,12 @@
+{
+  "name": "frankie/exception-handler",
+  "autoload": {
+    "psr-4": {
+      "Frankie\\ExceptionHandler\\": "src"
+    }
+  },
+  "require": {
+    "php-ds/php-ds": "^1.2",
+    "filp/whoops": "^2.5"
+  }
+}
